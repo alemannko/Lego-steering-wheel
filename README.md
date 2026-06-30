@@ -104,7 +104,9 @@ LEGO-Steering-Wheel/
 - Support for more games
 - Support for additional platforms
 
-## License
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
