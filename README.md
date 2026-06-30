@@ -1,5 +1,5 @@
 
-# LEGO Steering Wheel for PC
+# LEGO Driving Setup for PC
 
 ![LEGO Steering Wheel](images/image.png)
 
@@ -82,7 +82,7 @@ Then follow this sequence:
 ## 📁 Project Structure
 
 ```text
-LEGO-Steering-Wheel/
+LEGO-Driving-Setup/
 ├── Instructions/
 │   ├── Steering-wheel.pdf
 |   └── Pedals.pdf
