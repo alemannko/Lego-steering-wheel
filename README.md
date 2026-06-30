@@ -1,7 +1,7 @@
 
 # LEGO Steering Wheel for PC
 
-![LEGO Steering Wheel](Images/preview.png)
+![LEGO Steering Wheel](images/image.png)
 
 🧩 Build a functional PC steering wheel using LEGO.
 
